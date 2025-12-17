@@ -10,7 +10,7 @@
 
 # LINUX: name of Unity executable
 # MACOS: name of the .app directory
-executable_name="Hollow Knight Silksong"
+executable_name="Hollow Knight Silksong.app"
 
 # All of the below can be overriden with command line args
 
